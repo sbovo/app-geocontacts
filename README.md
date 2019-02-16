@@ -55,3 +55,13 @@ Used extensively for Continuous Integration and Deployment, while providing powe
 ## License
 Under MIT (see license file)
 
+# How to go on production? The receipt 🧾
+
+- Change the **Application name** and **Bundle Identifier** in the `info.plist` file for iOS
+    ![](art/Plist.png)
+- Change the **Application name** and **Package name** in the properties of the Android project
+    ![](art/AndroidManifest.png)
+- Change the images used by the app. Search for .jpg and .png files. Put yours 😉
+
+
+

@@ -21,9 +21,9 @@
 	<key>MinimumOSVersion</key>
 	<string>10.3</string>
 	<key>CFBundleDisplayName</key>
-	<string>CDA Contacts</string>
+	<string>Bubbles</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.microsoft.cloudadvocates</string>
+	<string>com.microsoft.bubbles</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
@@ -39,7 +39,7 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.1</string>
 	<key>CFBundleName</key>
-	<string>CDA Contacts</string>
+	<string>Bubbles</string>
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>

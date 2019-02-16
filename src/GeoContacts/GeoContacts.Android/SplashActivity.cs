@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace GeoContacts.Droid
 {
-    [Activity(Label = "CDA Contacts",
+    [Activity(Label = "Bubbles",
           Icon = "@mipmap/ic_launcher",
           Theme = "@style/SplashTheme",
           MainLauncher = true)]

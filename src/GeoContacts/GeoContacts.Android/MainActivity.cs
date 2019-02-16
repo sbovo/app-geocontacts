@@ -9,7 +9,7 @@ using Microsoft.Identity.Client;
 
 namespace GeoContacts.Droid
 {
-    [Activity(Label = "CDA Contacts", Icon = "@mipmap/ic_launcher", 
+    [Activity(Label = "Bubbles", Icon = "@mipmap/ic_launcher", 
               Theme = "@style/MainTheme", 
               MainLauncher = false, 
 
