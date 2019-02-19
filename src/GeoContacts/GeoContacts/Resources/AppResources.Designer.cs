@@ -124,7 +124,7 @@ namespace GeoContacts.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Find Neaby CDAs.
+        ///   Looks up a localized string similar to Find Nearby peers.
         /// </summary>
         internal static string FindCloseCDAs {
             get {
@@ -151,7 +151,7 @@ namespace GeoContacts.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to CDA Login.
+        ///   Looks up a localized string similar to Bubbles Login.
         /// </summary>
         internal static string LoginPageLoginWithMicrosoft {
             get {
@@ -160,7 +160,7 @@ namespace GeoContacts.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Welcome to the Microsoft Cloud Developer Advocate contacts application. This app enables you to browse and find CDAs near you..
+        ///   Looks up a localized string similar to Welcome to the Project Bubbles application. This app enables you to browse and find your peers near you..
         /// </summary>
         internal static string LoginPageWelcome {
             get {
@@ -169,7 +169,7 @@ namespace GeoContacts.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to It appears that no CDAs are nearby :(.
+        ///   Looks up a localized string similar to It appears that no peers are nearby :-(.
         /// </summary>
         internal static string NoCDAsNearby {
             get {

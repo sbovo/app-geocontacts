@@ -139,7 +139,7 @@
     <value>Please add your current location before syncing.</value>
   </data>
   <data name="FindCloseCDAs" xml:space="preserve">
-    <value>Find Neaby CDAs</value>
+    <value>Find Nearby peers</value>
   </data>
   <data name="Hometown" xml:space="preserve">
     <value>Hometown</value>
@@ -148,13 +148,13 @@
     <value>Continue as Guest</value>
   </data>
   <data name="LoginPageLoginWithMicrosoft" xml:space="preserve">
-    <value>CDA Login</value>
+    <value>Bubbles Login</value>
   </data>
   <data name="LoginPageWelcome" xml:space="preserve">
-    <value>Welcome to the Microsoft Cloud Developer Advocate contacts application. This app enables you to browse and find CDAs near you.</value>
+    <value>Welcome to the Project Bubbles application. This app enables you to browse and find your peers near you.</value>
   </data>
   <data name="NoCDAsNearby" xml:space="preserve">
-    <value>It appears that no CDAs are nearby :(</value>
+    <value>It appears that no peers are nearby :-(</value>
   </data>
   <data name="NoInternet" xml:space="preserve">
     <value>Un oh, looks like your device is offline. Check your connection and try again.</value>
